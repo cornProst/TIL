@@ -7,5 +7,5 @@ Today I Learned
 
 # Markdown
 
-- [Markdown이란?](Markdown/Markdown이란?)
+- [Markdown 이란?](Markdown/Markdown%20이란?)
 - [Markdown 기본문법](Markdown/Markdown%20기본문법.md)
